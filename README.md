@@ -1,4 +1,4 @@
-# Hi! I'm Mario-Escudev <img src="https://media.giphy.com/media/lRq4DGfsM9VPBGKaOa/giphy.gif" width="50px">
+# <img src="https://media.giphy.com/media/lRq4DGfsM9VPBGKaOa/giphy.gif" width="50px"> Hi! I'm Mario-Escudev <img src="https://media.giphy.com/media/lRq4DGfsM9VPBGKaOa/giphy.gif" width="50px">
 
 
 
